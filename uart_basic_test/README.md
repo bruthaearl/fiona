@@ -1,7 +1,4 @@
-# Test Code for Fiona
-Hey Fiona, here's some code you might be able to use to get started with all of this. Maybe it will work?
-
-## DO_UART_test.ino
+# DO_UART_test.ino
 I ripped this code directly from https://atlas-scientific.com/files/Arduino-Mega-DO-Sample-Code.pdf and made some modifications.
 
 The first serial port - the port used by the serial monitor - is simply called "Serial". You can transmit to the serial monitor on the first port by using `Serial.print("Hello!")` . Receiving data is a little bit trickier. Look at how its done in the `serialEvent()` function block.
