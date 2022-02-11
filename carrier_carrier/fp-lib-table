@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name carrier_carrier)(type KiCad)(uri ${KIPRJMOD}/carrier_carrier.pretty)(options "")(descr ""))
-)

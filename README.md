@@ -1,9 +1,4 @@
-# Test Code for Fiona
+# fiona
+things related to fiona's project.
 
-Test code for Fiona's project
-
-## uart_basic_test
-Basic UART test code
-
-## ezo_uart_lib_test
-Test code using the Atlas Scientific UART library
+more documentation to follow.
